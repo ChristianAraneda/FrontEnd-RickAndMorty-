@@ -57,12 +57,12 @@ export const deleteFavorite = (id) => {
   };
 };
 
-export const getFavorites = () => {
+/* export const getFavorites = () => {
   return async (dispatch) => {
     const response = await axios.get(`${URL_BASE}/favorites/`);
     dispatch({ type: GET_FAV, payload: response.data });
   };
-};
+}; */
 
 export const filterCards = (gender) => {
   return {
