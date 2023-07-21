@@ -10,7 +10,7 @@ const Deatil = () => {
   const [character, setCharacter] = useState({});
 
   useEffect(() => {
-    axios(`http://localhost:3001/character/${id}`)
+    axios(`https://backendrnm.fly.dev/${id}`)
       .then(({ data }) => {
         if (data.name) {
           setCharacter(data);
