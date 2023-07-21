@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.989c6a06.css",
+    "main.js": "/static/js/main.aca12671.js",
+    "static/media/fondo.jpg": "/static/media/fondo.429f980300dda82e84e3.jpg",
+    "static/media/5419747.jpg": "/static/media/5419747.4e0858b3ae4ee1bb225c.jpg",
+    "static/media/login_logo-removebg-preview.png": "/static/media/login_logo-removebg-preview.8aed51f7008d7224718d.png",
+    "static/media/pngwing.com.png": "/static/media/pngwing.com.8d7073975946dfe9d90f.png",
+    "static/media/Christian Ignacio Araneda Ocares .jpeg": "/static/media/Christian Ignacio Araneda Ocares .6c1ad8937d8b70db6f01.jpeg",
+    "static/media/3800_2_06-removebg-preview.png": "/static/media/3800_2_06-removebg-preview.ad91a73484d68c7022dd.png",
+    "static/media/planeta2.png": "/static/media/planeta2.0c686dd5c4d4dba3280e.png",
+    "index.html": "/index.html",
+    "main.989c6a06.css.map": "/static/css/main.989c6a06.css.map",
+    "main.aca12671.js.map": "/static/js/main.aca12671.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.989c6a06.css",
+    "static/js/main.aca12671.js"
+  ]
+}
