@@ -49,7 +49,7 @@ function App() {
         toast.error("¡Este personaje ya se encuentra en pantalla!");
       } else if (backRequest.data.name) {
         seterrorApi(false);
-        setCharacters((oldChars) => [...oldChars, backRequest.data]);
+        setCharacters((oldChars) => [backRequest.data, ...oldChars]);
       }
     } catch (error) {
       toast.error("Ese número no existe");
