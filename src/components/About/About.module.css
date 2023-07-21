@@ -1,0 +1,21 @@
+.nombre {
+  color: white;
+}
+
+.imgen {
+  border-radius: 50%;
+  width: 50%;
+}
+
+a {
+  text-decoration: none;
+}
+
+@media (max-width: 480px) {
+  .nombre {
+    margin-top: 7rem;
+  }
+  .imgen {
+    width: 90%;
+  }
+}

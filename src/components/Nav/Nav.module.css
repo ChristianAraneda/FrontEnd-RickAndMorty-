@@ -1,0 +1,23 @@
+.menu {
+  background-color: transparent;
+  backdrop-filter: blur(15px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 0 0 30px black;
+  top: 0;
+  position: fixed;
+  width: 100%;
+  z-index: 9999;
+}
+
+.boton {
+  transition: box-shadow, color, 0.3s ease;
+  border: 0;
+  background: none;
+  box-shadow: none;
+  border-radius: 0;
+  border: 1px solid white;
+  padding: 1rem;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
